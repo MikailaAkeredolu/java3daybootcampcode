@@ -1,3 +1,5 @@
+import branchb.Baby;
+
 import java.util.Scanner;
 
 public class MyFirstApp {
@@ -6,6 +8,7 @@ public class MyFirstApp {
     public static void main(String[] args) {
 
         Person person = new Person();
+        Baby baby = new Baby();
 
         System.out.print("Enter your full name:");
         // Initialize Scanner object
