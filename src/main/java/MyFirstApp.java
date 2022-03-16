@@ -5,6 +5,8 @@ public class MyFirstApp {
 
     public static void main(String[] args) {
 
+        Person person = new Person();
+
         System.out.print("Enter your full name:");
         // Initialize Scanner object
         // read the value from the console
